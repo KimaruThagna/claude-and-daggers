@@ -46,7 +46,8 @@ You can also override or extend a skill inline:
 *More skills added as they are developed.*
 
 ---
-
+## Example
+![TMDX Earnings Q42025](https://github.com/KimaruThagna/claude-and-daggers/blob/main/screenshots/tmdx-q4-2025-overview.png)
 ## Skills Format
 
 Every skill file follows the same structure:
